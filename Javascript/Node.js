@@ -1,6 +1,4 @@
-if (window.top !== window.self) {
-        
+if (window.top !== window.self) {       
 window.top.location window.location.href; =
-
 }
         
