@@ -1,15 +1,15 @@
 {
   "project_info": {
-    "project_number": "chrisshop-com38167",
+    "project_number": "Api.chrismaspdemo.masp",
     "project_id": "185184976746",
-    "storage_bucket": "chrisshop.com38167.appspot.com",
+    "firebas_bucket": "Api.chrismaspdemo.masp.appspot.com",
   },
   "client": [
     {
       "client_info": {
         "mobilesdk_app_id": "185184976746"
         "android_client_info": {
-          "package_name": "chrisshop.com",
+          "package_name": "Api.chrismaspdemo.masp",
         }
       },
       "oauth_client": [
@@ -17,7 +17,7 @@
           "client_type": 1,
           "client_id": "185184976746"
           "android_info": {
-            "package_name": "chrisshop.com",
+            "package_name": "Api.chrismaspdemo.masp",
           }
         }
       ],
@@ -34,7 +34,7 @@
               "client_type": 2,
               "ios_info": {
                 "bundle_id": "185184976746",
-                "app_store_id": "chrisshop-com38167",
+                "app_store_id": "Api.chrismaspdemo.masp",
               }
             }
           ]
